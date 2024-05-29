@@ -10,6 +10,7 @@
 ![Coverage](https://img.shields.io/badge/coverage-100%25-brightgreen)
 ![Project Status: WIP – Initial Development](https://img.shields.io/badge/project%20status-work_in_progress-orange.svg)
 
+![Screenshot 2024-05-29 183930](https://github.com/Al-Moccardi/Advanced_Time_Series_Analysis/assets/150179413/a83d15d2-b0cc-4e14-b77b-f4d6e0bcd733)
 
 # Overview
 This repository is an essential component of the course "H&S for Big Data". It has been meticulously curated to serve as both a practical toolkit and an educational resource for students and professionals involved in big data and health and safety (H&S) analytics. The repository contains various Python notebooks and datasets aimed at providing hands-on experience with advanced forecasting techniques, crucial for predicting trends and making data-driven decisions in the field of big data.
