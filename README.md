@@ -40,7 +40,7 @@ Gradient Boosting with XGBoost and LightGBM (Chapter 15): Master these advanced 
 SARIMAX Model (Chapter 8): Apply this advanced model to capture seasonal trends and external influences in H&S data.
 Reference Material
 
-##Reference 
+## Reference 
 This repository accompanies Advanced Forecasting with Python by Joos Korstanje (Apress, 2021). The book serves as an additional resource to deepen understanding of the advanced forecasting methods demonstrated within this repository. It is highly recommended for participants who seek further enrichment in sophisticated statistical and machine learning techniques.
 
 ## How to Use This Repository
